@@ -8,3 +8,5 @@ module "stggg" {
   source = "../storage_account"
   storage = var.sg_details
 }
+
+#commented.......
